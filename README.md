@@ -6,7 +6,7 @@
 BM52D5121-1 
 ===========================================================
 
-The BM52D5021-1 is a microporous atomiser module from Best Modules, which uses the UART communication method. This document provides the description of the BM52D5021-1 Arduino Lib functions and how to install the Arduino Lib. The example demonstrate the function of configuring atomisation level and atomisation time, etc.
+The Best Modules BM52D5121-1 is low power atomiser module, which uses the UART communication method. This document provides the description of the BM52D5121-1 Arduino Lib functions and how to install the Arduino Lib. The example demonstrate the function of setting fan and atomisation power and controlling external RGB lights, etc.
 
 #### Applicable types:
 <div align=center>
